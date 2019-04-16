@@ -1,2 +1,4 @@
 # Hello-Word
-Primer repositorio de Test
+Mi primer repositorio de Test
+
+I love :cofee: and :pizza:.
